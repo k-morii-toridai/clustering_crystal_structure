@@ -1,0 +1,8 @@
+## nnlistを作る準備
+
+gfortran m_ftox.f90 neib.f90 -o poscar2nnlist
+
+## nnlistの作り方
+cif2cell cif2ce -p vasp --vasp-format=5
+
+./poscar2nnlist POSCAR 10 

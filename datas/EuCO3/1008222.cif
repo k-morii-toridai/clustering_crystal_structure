@@ -1,0 +1,69 @@
+#------------------------------------------------------------------------------
+#$Date: 2022-09-25 22:10:12 +0300 (Sun, 25 Sep 2022) $
+#$Revision: 278158 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/1/00/82/1008222.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1008222
+loop_
+_publ_author_name
+'Mayer, I'
+'Levy, E'
+'Glasner, A'
+_publ_section_title
+;
+The Crystal Structure of Eu S O~4~ and Eu C O~3~
+;
+_journal_coden_ASTM              ACCRA9
+_journal_name_full               'Acta Crystallographica (1,1948-23,1967)'
+_journal_page_first              1071
+_journal_page_last               1072
+_journal_paper_doi               10.1107/S0365110X64002699
+_journal_volume                  17
+_journal_year                    1964
+_chemical_formula_structural     'Eu C O3'
+_chemical_formula_sum            'C Eu O3'
+_chemical_name_systematic        'Europium(II) carbonate'
+_space_group_IT_number           62
+_symmetry_cell_setting           orthorhombic
+_symmetry_Int_Tables_number      62
+_symmetry_space_group_name_Hall  '-P 2ac 2n'
+_symmetry_space_group_name_H-M   'P n m a'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            4
+_cell_length_a                   5.102
+_cell_length_b                   8.422
+_cell_length_c                   6.03
+_cell_volume                     259.1
+_exptl_crystal_density_meas      5.61
+_cod_original_formula_sum        'Eu C O3'
+_cod_database_code               1008222
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+1/2+x,1/2-y,1/2-z
+-x,1/2+y,-z
+1/2-x,-y,1/2+z
+-x,-y,-z
+1/2-x,1/2+y,1/2+z
+x,1/2-y,z
+1/2+x,y,1/2-z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+? ? ? ?
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 ChemSpider 144949
